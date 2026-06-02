@@ -1,0 +1,27 @@
+body{                                   
+  background-color: #f0f0f0;
+}                                   /*第五問 D*/
+
+p{
+  color: blue;
+}
+
+.p{
+  color: green;
+}
+
+#p{
+  color: yellow;
+}                                  
+
+.highlight{
+  color: blue;
+}                                  /*第六問 B*/
+
+#header { 
+  background-color: black; 
+}                                  /*第十問 C*/
+
+body{
+  font-size: 24px;
+}                                  /*第十二問 A*/
